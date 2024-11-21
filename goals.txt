@@ -1,0 +1,4 @@
+GOALS FOR NEXT SEMESTER:
+python 
+java
+Rust
